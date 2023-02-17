@@ -88,35 +88,6 @@ class Contact extends Component {
 					   </p>
 				   </div>
 
-               <div className="widget widget_tweets">
-                  <h4 className="widget-title">Website Acknowledgements</h4>
-                  <ul id="twitter">
-                     <li>
-                        <span>
-                        React template for website used
-                          <a href="https://github.com/tbakerx/react-resume-template">
-                            {" link"}
-                          </a>
-                        </span>
-                     </li>
-                     <li>
-                        <span>
-                        Github pages hosting tutorial used
-                          <a href="https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f">
-                            {" link"}
-                          </a>
-                        </span>
-                     </li>
-                      <li>
-                        <span>
-                        Background photo
-                          <a href="https://www.pexels.com/@simonmigaj">
-                            {" link"}
-                          </a>
-                        </span>
-                     </li>
-                  </ul>
-		         </div>
             </aside>
       </div>
    </section>
