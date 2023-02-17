@@ -1,0 +1,266 @@
+{
+  "main": {
+    "name": "Sergei Vorobev",
+    "occupation": "Full-Stack Web Developer & Django Developer & Python Developer & Backend Developer",
+    "description": "",
+    "image": "me.png",
+    "bio": "\tBackend software developer with a degree in computer science. Over last 5 years I have gathered experience in many software projects including:\n\t• Venue app to search for events, as well as to create your own events and meetings.\n\t• Web weather service to visualize weather data using Raspberry Pi, IoT sensors, SQLite and Python.\n\t• Energy expenditure for running to analysis of energy expenditure for running.\n\t• Assets price prediction to predict the closing assets price with the 60 day assets price.\n\t• Health awareness system web application illustrates personal medical data, educate a user about healthy food (study materials, quiz) and makes a prediction about the risk of increasing glucose in the blood.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "vorobevse86@gmail.com",
+    "phone": "+48 881 597 649",
+    "address": {
+      "street": "Kozanowska 46",
+      "city": "Wroclaw",
+      "state": "PL",
+      "zip": "54 152"
+    },
+    "website": "main",
+    "resumedownload": "https://drive.google.com/file/d/1lKag_1jlJobj5Zq8gHNiZUaWFs_tC-fg/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sergey.vorobyev.140",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sergei-vorobev-4b667a182",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sergeihappystudent/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/SergeiVorobev",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "\tMy favorite programming language is Python, framework: Django. My ambition is to continue my growth in web application development.\n\tI am familiar with agile project management methodologies. I did most of my development with SCRAM methodology.",
+    "work": [
+      {
+        "company": "TECHS Sp. z.o.o., Wroclaw, Poland",
+        "title": "Backend Developer (Full-time)",
+        "years": "Jun 2022 - present",
+        "description": "On-the-job responsibilities:\n\t• Backend development of web applications\n\t• Working with OpenAPI Specification\n\t• Manual testing of UI, writing unit tests\n\nUsed technologies:\n\t• Python Django, DRF and FastAPI web frameworks\n\t• SQLite, SQLAlchemy, OpenAPI, Docker\n\t• Jira Software, Visual Paradigm"
+      },
+      {
+        "company": "Freelancing, Wroclaw, Poland",
+        "title": "Full-Stack Web Developer",
+        "years": "Oct 2021 - Jun 2022",
+        "description": "On-the-job responsibilities:\n\t• Backend and Frontend development of web applications\n\nUsed technologies:\n\t• Python, JavaScript, Django and FastAPI web frameworks\n\t• SQLite, Postgres, Docker, Visual Paradigm"
+      },
+      {
+        "company": "Internship, Wroclaw, Poland",
+        "title": "Data Engineer",
+        "years": "Jul 2021 - Oct 2021",
+        "description": "On-the-job responsibilities:\n\tExploring existing the Data Base with company materials\n\tWorking with normalization of the Data Base\nUsed technologies: Postgres."
+      }
+    ],
+    "education": [
+      {
+        "school": "Wroclaw University of Science and Technology",
+        "degree": "Bachelor in Computer Science",
+        "graduated": "Oct 2018 - Dec 2022",
+        "description": "The most significant project along my study was a web-based weather service created with a Raspberry Pi, Python, SQLite and Flask web framework. Diploma Thesis: Web weather service."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python, Django, CSS, HTML5, SQL",
+        "level": "80%"
+      },
+      {
+        "name": "Java, PHP, JavaScript, React, C++",
+        "level": "60%"
+      },
+      {
+        "name": "Linux, Git, Django Rest Framework, Fast API, Docker",
+        "level": "70%"
+      },
+      {
+        "name": "VSCode, Atom, IntelliJ Idea, Visual Paradigm",
+        "level": "80%"
+      },
+      {
+        "name": "Adobe Photoshop, Illustrator, Premier Pro",
+        "level": "80%"
+      },
+      {
+        "name": "Microsoft Office",
+        "level": "80%"
+      }
+    ]
+  },
+  "licenses": {
+    "certificates": [
+      {
+      "title": "Data Science with Python course",
+      "category": "Sololearn",
+      "image": "DataPython.png",
+      "url": "https://www.sololearn.com/Certificate/1093-2785112/pdf"
+      },
+      {
+        "title": "CSS Fundamental course",
+        "category": "Sololearn",
+        "image": "CSS.png",
+        "url": "https://www.sololearn.com/Certificate/1023-2785112/pdf"
+      },
+      {
+        "title": "JavaScript Tutorial",
+        "category": "Sololearn",
+        "image": "JavaScript.png",
+        "url": "https://www.sololearn.com/Certificate/1024-2785112/pdf"
+        },
+        {
+          "title": "PHP Tutorial course",
+          "category": "Sololearn",
+          "image": "PHP.png",
+          "url": "https://www.sololearn.com/Certificate/1059-2785112/pdf"
+        },
+        {
+          "title": "Learn Git: Everything You need to know",
+          "category": "Udemy",
+          "image": "Git.png",
+          "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-048b0f8c-47dc-4ed1-a9f1-76e0623fb387.pdf"
+        },
+        {
+          "title": "HTML Fundamental course",
+          "category": "Sololearn",
+          "image": "HTML.png",
+          "url": "https://www.sololearn.com/Certificate/1014-2785112/pdf"
+        },
+        {
+          "title": "SQL Fundamental course",
+          "category": "Sololearn",
+          "image": "SQL.png",
+          "url": "https://www.sololearn.com/Certificate/1060-2785112/pdf"
+        },
+        {
+          "title": "Python 3 Tutorial course",
+          "category": "Sololearn",
+          "image": "Python3.png",
+          "url": "https://www.sololearn.com/Certificate/1073-2785112/pdf"
+        },
+        {
+          "title": "Java Tutorial course",
+          "category": "Sololearn",
+          "image": "Java.png",
+          "url": "https://www.sololearn.com/Certificate/1073-2785112/pdf"
+        }
+        ,
+        {
+          "title": "Python and Django Full Stack Web Developer Bootcamp",
+          "category": "Udemy",
+          "image": "Django.png",
+          "url": "https://www.udemy.com/certificate/UC-4980fc9e-2cf8-4be1-b542-8462d8a13f60/"
+        }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Web weather service",
+        "category": "The weather station and web application for data visualisation that is the subject of this engineering paper is implemented as part of an individual engineering project by the author of this research.",
+        "image": "weather_station.png",
+        "url": "https://github.com/SergeiVorobev/Web-weather-service"
+      },
+      {
+        "title": "Energy Expenditure for Running",
+        "category": "This project makes analysis of energy expenditure for running.",
+        "image": "run.png",
+        "url": "https://github.com/SergeiVorobev/EnergyExpenditure"
+      },
+      {
+        "title": "Health awareness system",
+        "category": "The main purpose of the project(web application) informing the user about healthy eating, illustrating personal data with glucose levels, weight, BMI. In addition, the application prompts the user to review educational materials and take a quiz, as well as analyses the user's answers and makes a prediction about the risk of increasing blood glucose levels.",
+        "image": "hastp.png",
+        "url": "https://github.com/SergeiVorobev/Health-awareness-system"
+      },
+      {
+        "title": "Smart home",
+        "category": "Website for monitoring IoT devices. Url: https://cocont.herokuapp.com",
+        "image": "smarthome.png",
+        "url": "https://cocont.herokuapp.com"
+      },
+      {
+        "title": "Venue app",
+        "category": "Website for resevation venues and events. Url: https://venueappl.herokuapp.com/login/?next=/",
+        "image": "venues.png",
+        "url": "https://github.com/SergeiVorobev/VenueApp"
+      },
+      {
+        "title": "Bookstore",
+        "category": "The program stores this book information: Title, Author, Year, ISBN. User can: Viev all records ,Search an entry Add Entry, Update Entry, Delete, Close. (Tkinter-SQLite-OOP)",
+        "image": "bookstore.png",
+        "url": "https://github.com/SergeiVorobev/Bookstore-Tkinter-SQLite-OOP"
+      },
+      {
+        "title": "ReactJS Portfolio",
+        "category": "This is a ReactJS based personal resume website. Url: https://evgcopywrite.netlify.app",
+        "image": "pers_portfolio.png",
+        "url": "https://github.com/SergeiVorobev/portfolio_JS"
+      },
+      {
+        "title": "Simple calculator ",
+        "category": "Website created with using Django framework. Url: https://mywebcalculator.herokuapp.com",
+        "image": "calculator.png",
+        "url": "https://github.com/SergeiVorobev/WebCalculator"
+      },
+      {
+        "title": "Google clone",
+        "category": "Website created with using Django framework. Url: https://goolesclone.herokuapp.com",
+        "image": "google.png",
+        "url": "https://github.com/SergeiVorobev/googleclone71"
+      },
+      {
+        "title": "DailyAssetstPortfolio(python)",
+        "category": "This program attemps to optomize a user portfolio using the Efficient Frontier ( in the example of cryptocurrencies).",
+        "image": "portfolio.png",
+        "url": "https://github.com/SergeiVorobev/CreateDailyCryptoPortfolio/blob/master/DailyPortfolio.ipynb"
+      },
+      {
+        "title": "Assets price Prediction(python)",
+        "category": "This program predicts the closing assets price using artifitial recurrent neural network called Long Sort Term Memory(LSTM) with the 60 day assets price.",
+        "image": "prediction.png",
+        "url": "https://github.com/SergeiVorobev/AssetsPricePredictions/blob/master/AssetsPricePrediction.ipynb"
+      },
+      {
+        "title": "Assets price analysis project(python)",
+        "category": "This program analyzes the change in the asset over time and determines the best time to buy and sell using the SMA price intersection method.",
+        "image": "assetsAnalisys.png",
+        "url": "https://github.com/SergeiVorobev/Assets-price-analysis-project-python-/blob/master/AnalysisOfBitcoin.ipynb"
+      },
+      {
+        "title": "Dictionary(python)",
+        "category": "Dictionary project. The program outputs the definition of the input word.",
+        "image": "dictionary.png",
+        "url": "https://github.com/SergeiVorobev/Dictionary/tree/mainbranch"
+      },
+      {
+        "title": "GlobalMap(python)",
+        "category": "In this project we can see a global map with countries and USA's volcanoes",
+        "image": "map.jpg",
+        "url": "https://github.com/SergeiVorobev/GlobalMap"
+      },
+      {
+        "title": "Wireframe projects",
+        "category": "There are three wireframe study projects(facebook clone, Tic-Tac-Toe game and Cinema mobile app.)(Visual Paragigm)",
+        "image": "wireframes.png",
+        "url": "https://github.com/SergeiVorobev/Wireframes"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "That's a super work!  Best in the group! (About wireframe projects, where I presented Tic-tac-toe game and cinema mobile app, and also facebook clone)",
+        "user": "Bogumila  Hnatkowska"
+      }
+    ]
+  }
+}
