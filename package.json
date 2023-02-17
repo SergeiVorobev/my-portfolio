@@ -1,19 +1,17 @@
 {
   "homepage": "http://SergeiVorobev.github.io/my-portfolio",
-  "name": "react-resume-sam",
-  "version": "0.1.0",
+  "name": "my_portfolio",
+  "version": "1.2.0",
   "private": true,
   "devDependencies": {
-    "gh-pages": "^2.2.0",
-    "react-scripts": "1.0.17"
+    "gh-pages": "^5.0.0",
+    "react-scripts": "^5.0.1"
   },
   "dependencies": {
-    "jquery": "6.14.5",
-    "react": "^16.2.0",
-    "react-dom": "^16.13.1",
-    "react-ga": "^2.7.0",
-    "gh-pages": "^2.2.0",
-    "react-scripts": "1.0.17"
+    "jquery": "^3.6.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-ga": "^3.3.1"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -22,5 +20,28 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true \"ReactJS Resume Website Template\") ### <a href=\"https://react-resume-template.herokuapp.com/\">LIVE DEMO</a>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeiVorobev/my-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeiVorobev/my-portfolio/issues"
   }
 }
