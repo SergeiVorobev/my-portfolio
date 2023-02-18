@@ -40,25 +40,41 @@
     ]
   },
   "resume": {
-    "skillmessage": "\tMy favorite programming language is Python, framework: Django. My ambition is to continue my growth in web application development.\n\tI am familiar with agile project management methodologies. I did most of my development with SCRAM methodology.",
+    "skillmessage": "My favorite programming language is Python, framework: Django. My ambition is to continue my growth in web application development. I am familiar with agile project management methodologies. I did most of my development with SCRAM methodology.",
     "work": [
       {
         "company": "TECHS Sp. z.o.o., Wroclaw, Poland",
         "title": "Backend Developer (Full-time)",
         "years": "Jun 2022 - present",
-        "description": "On-the-job responsibilities:\n\t• Backend development of web applications\n\t• Working with OpenAPI Specification\n\t• Manual testing of UI, writing unit tests\n\nUsed technologies:\n\t• Python Django, DRF and FastAPI web frameworks\n\t• SQLite, SQLAlchemy, OpenAPI, Docker\n\t• Jira Software, Visual Paradigm"
+        "description1": "• Backend development of web applications",
+        "description2": "• Working with OpenAPI Specification",
+        "description3": "• Manual testing of UI, writing unit tests",
+        "technologies1": "• Python, Django, DRF and FastAPI web frameworks",
+        "technologies2": "• SQLite, SQLAlchemy, OpenAPI, Docker",
+        "technologies3": "• Jira Software, Visual Paradigm"
+
       },
       {
         "company": "Freelancing, Wroclaw, Poland",
         "title": "Full-Stack Web Developer",
         "years": "Oct 2021 - Jun 2022",
-        "description": "On-the-job responsibilities:\n\t• Backend and Frontend development of web applications\n\nUsed technologies:\n\t• Python, JavaScript, Django and FastAPI web frameworks\n\t• SQLite, Postgres, Docker, Visual Paradigm"
+        "description1": "• Backend and Frontend development of web applications",
+        "description2": "",
+        "description3": "",
+        "technologies1": "• Python, JavaScript, Django and FastAPI web frameworks",
+        "technologies2": "• SQLite, Postgres, Docker, Visual Paradigm",
+        "technologies3": "" 
       },
       {
         "company": "Internship, Wroclaw, Poland",
         "title": "Data Engineer",
         "years": "Jul 2021 - Oct 2021",
-        "description": "On-the-job responsibilities:\n\tExploring existing the Data Base with company materials\n\tWorking with normalization of the Data Base\nUsed technologies: Postgres."
+        "description1": "Exploring existing the Data Base with company materials",
+        "description2": "Working with normalization of the Data Base",
+        "description3": "",
+        "technologies1": "• Postgres DB",
+        "technologies2": "",
+        "technologies3": "" 
       }
     ],
     "education": [
