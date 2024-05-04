@@ -4,7 +4,7 @@
     "occupation": "Full-Stack Web Developer & Django Developer & Python Developer & Backend Developer",
     "description": "",
     "image": "me.png",
-    "bio": "\tBackend software developer with a degree in computer science. Over last 5 years I have gathered experience in many software projects including:<br />• Venue app to search for events, as well as to create your own events and meetings.\\n\\t• Web weather service to visualize weather data using Raspberry Pi, IoT sensors, SQLite and Python.\\n\\t• Energy expenditure for running to analysis of energy expenditure for running.\\n\\t• Assets price prediction to predict the closing assets price with the 60 day assets price.\\n\\t• Health awareness system web application illustrates personal medical data, educate a user about healthy food (study materials, quiz) and makes a prediction about the risk of increasing glucose in the blood.",
+    "bio": "\tExperienced software developer with a degree in computer science, specializing in Python development. Over the past 4 years, I have successfully contributed to diverse software projects, showcasing proficiency in multiple frameworks, including Django, Flask, and FastAPI. My focus is on continuous growth in web application development and data engineering roles. Well- versed in agile project management methodologies, with expertise in the SCRAM technique.<br />KEY PROJECTS:<br />• Venue app: Developed a comprehensive venue app for event management, demonstrating full-stack capabilities in both backend and frontend development.\\n\\t• Web weather service: Led the creation of a web-based weather service utilizing Raspberry Pi, IoT sensors, SQLite, and Flask, showcasing expertise in data engineering and web technologies. \\n\\t• Health awareness system: Contributed to the development of a web application focusing on health awareness, highlighting versatility in addressing diverse project requirements.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "vorobevse86@gmail.com",
     "phone": "+48 881 597 649",
@@ -12,10 +12,10 @@
       "street": "Kozanowska 46",
       "city": "Wroclaw",
       "state": "PL",
-      "zip": "54 152"
+      "zip": "54-152"
     },
     "website": "main",
-    "resumedownload": "https://drive.google.com/file/d/1lKag_1jlJobj5Zq8gHNiZUaWFs_tC-fg/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1uCaXAuye9WMmm7xLhgM9u93RGNKzNSxc/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -43,19 +43,30 @@
     "skillmessage": "My favorite programming language is Python, framework: Django. My ambition is to continue my growth in web application development. I am familiar with agile project management methodologies. I did most of my development with SCRAM methodology.",
     "work": [
       {
+        "company": "Freelance, Wroclaw, Poland",
+        "title": "Full-Stack Web Developer",
+        "years": "March 2024 - present",
+        "description1": "• Backend and Frontend development of web applications",
+        "description2": "",
+        "description3": "",
+        "technologies1": "• Python, JavaScript, Django, DRF, Flask and FastAPI web frameworks",
+        "technologies2": "• SQLite, PostgreSQL, Docker",
+        "technologies3": "" 
+      },
+      {
         "company": "TECHS Sp. z.o.o., Wroclaw, Poland",
         "title": "Backend Developer (Full-time)",
-        "years": "Jun 2022 - present",
+        "years": "Jun 2022 - Feb 2024",
         "description1": "• Backend development of web applications",
         "description2": "• Working with OpenAPI Specification",
         "description3": "• Manual testing of UI, writing unit tests",
         "technologies1": "• Python, Django, DRF and FastAPI web frameworks",
-        "technologies2": "• SQLite, SQLAlchemy, OpenAPI, Docker",
-        "technologies3": "• Jira Software, Visual Paradigm"
+        "technologies2": "• PostgreSQL, SQLite, SQLAlchemy, OpenAPI, Docker",
+        "technologies3": "• Jira Software"
 
       },
       {
-        "company": "Freelancing, Wroclaw, Poland",
+        "company": "Freelance, Wroclaw, Poland",
         "title": "Full-Stack Web Developer",
         "years": "Oct 2021 - Jun 2022",
         "description1": "• Backend and Frontend development of web applications",
@@ -81,7 +92,7 @@
       {
         "school": "Wroclaw University of Science and Technology",
         "degree": "Bachelor in Computer Science",
-        "graduated": "Oct 2018 - Dec 2022",
+        "graduated": "Oct 2018 - Jan 2023",
         "description": "The most significant project along my study was a web-based weather service created with a Raspberry Pi, Python, SQLite and Flask web framework. Diploma Thesis: Web weather service."
       }
     ],
@@ -107,6 +118,10 @@
         "level": "80%"
       },
       {
+        "name": "AWS, GCP",
+        "level": "50%"
+      },
+      {
         "name": "Microsoft Office",
         "level": "80%"
       }
@@ -114,6 +129,36 @@
   },
   "licenses": {
     "certificates": [
+      {
+        "title": "Build a Backend REST API with Python & Django - Advanced",
+        "category": "Udemy",
+        "image": "DRF.png",
+        "url": "https://www.udemy.com/certificate/UC-8e4598d1-0fbf-4642-963d-f98635360008/"
+        },
+      {
+        "title": "Introduction to C Sharp",
+        "category": "Sololearn",
+        "image": "CSharp.png",
+        "url": "https://www.sololearn.com/certificates/CC-4QQVIYDD"
+      },
+      {
+        "title": "Python Data Structures & Algorithms + LEETCODE Exercises ",
+        "category": "Udemy",
+        "image": "Python+Algorithms.png",
+        "url": "https://www.udemy.com/certificate/UC-6de6c732-4cba-4878-8cbc-5945e9548c4d/"
+        },
+      {
+        "title": "[NEW]Ultimate AWS Certified Cloud Practioner - 2023",
+        "category": "Udemy",
+        "image": "AWS.png",
+        "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-4ac7d0b2-9631-4c28-bb57-17cdfeb63b5e.pdf"
+      },
+      {
+        "title": "Python and Django Full Stack Web Developer Bootcamp",
+        "category": "Udemy",
+        "image": "Django_bootcamp.png",
+        "url": "https://www.udemy.com/certificate/UC-4980fc9e-2cf8-4be1-b542-8462d8a13f60/"
+      },
       {
       "title": "Data Science with Python course",
       "category": "Sololearn",
