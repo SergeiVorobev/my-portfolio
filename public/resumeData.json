@@ -225,6 +225,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Trade and Material Assets (TMA) Warehouse App",
+        "category": "The TMA Warehouse App is a web-based solution that simplifies inventory management and purchase requests for warehouses, enhancing efficiency and control.",
+        "image": "tma.png",
+        "url": "https://github.com/SergeiVorobev/tma-warehouse-app.git"
+      },
+      {
         "title": "Web weather service",
         "category": "The weather station and web application for data visualisation that is the subject of this engineering paper is implemented as part of an individual engineering project by the author of this research.",
         "image": "weather_station.png",
@@ -318,6 +324,14 @@
   },
   "testimonials": {
     "testimonials": [
+      {
+        "text": "Sergei Vorobev was instrumental in our real estate website project as a full-stack developer. His expertise in Django and React elevated the frontend, creating a user-friendly interface. While primarily focused on frontend tasks, Sergei seamlessly handled backend duties when needed, showcasing his versatility. His attention to detail and dedication to quality ensured a seamless and reliable platform. Sergei's proactive problem-solving and collaborative approach made him a valuable team member. I highly recommend Sergei for any future web development projects.",
+        "user": "Mikhail Mezyakov"
+      },
+      {
+        "text": "Sergei Vorobev has been an invaluable team member since July 1, 2022. His proactive problem-solving, effective communication, and technical expertise in Django, React, and backend development significantly enhance project success. His contributions to projects like \"Uncia\" and \"Gero\" demonstrate his capability to drive success. In summary, Sergei's positive traits and technical prowess make him a vital asset to our team.",
+        "user": "Igor Miazek"
+      },
       {
         "text": "That's a super work!  Best in the group! (About wireframe projects, where I presented Tic-tac-toe game and cinema mobile app, and also facebook clone)",
         "user": "Bogumila  Hnatkowska"
