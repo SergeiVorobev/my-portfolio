@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ReactGA from 'react-ga';
+import ReactGA from 'react-ga4';
 import $ from 'jquery';
 import './App.css';
 import Header from './Components/Header';
@@ -20,8 +20,12 @@ class App extends Component {
       resumeData: {}
     };
 
-    ReactGA.initialize('UA-110570651-1');
-    ReactGA.pageview(window.location.pathname);
+    ReactGA.initialize('G-4K67Y11BMS', {
+      gaOptions: {
+        cookieFlags: 'SameSite=None;Secure'
+      }
+    });
+    ReactGA.send({ hitType: "pageview", page: window.location.pathname });
 
   }
 

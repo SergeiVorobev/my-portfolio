@@ -5,8 +5,8 @@ class Resume extends Component {
 
     if(this.props.data){
       var skillmessage = this.props.data.skillmessage;
-      var work = this.props.data.work.map(function(work){
-        return <div key={work.company}><h3>{work.company}</h3>
+      var work = this.props.data.work.map(function(work, index){
+        return <div key={`${work.company}-${work.title}-${index}`}><h3>{work.company}</h3>
             <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
             <p>&emsp;&emsp;On-the-job responsibilities:<br></br>&emsp;&emsp;{work.description1}<br></br>&emsp;&emsp;{work.description2}<br></br>&emsp;&emsp;{work.description3}</p>
             <p>&emsp;&emsp;Used technologies:<br></br>&emsp;&emsp;{work.technologies1}<br></br>&emsp;&emsp;{work.technologies2}<br></br>{work.technologies3}</p>
