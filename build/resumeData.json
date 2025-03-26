@@ -4,7 +4,7 @@
     "occupation": "Full-Stack Web Developer & Django Developer & Python Developer & Backend Developer",
     "description": "",
     "image": "me.png",
-    "bio": "\tExperienced software developer with a degree in computer science, specializing in Python development. Over the past 4 years, I have successfully contributed to diverse software projects, showcasing proficiency in multiple frameworks, including Django, Flask, and FastAPI. My focus is on continuous growth in web application development and data engineering roles. Well- versed in agile project management methodologies, with expertise in the SCRAM technique.<br />KEY PROJECTS:<br />• Venue app: Developed a comprehensive venue app for event management, demonstrating full-stack capabilities in both backend and frontend development.\\n\\t• Web weather service: Led the creation of a web-based weather service utilizing Raspberry Pi, IoT sensors, SQLite, and Flask, showcasing expertise in data engineering and web technologies. \\n\\t• Health awareness system: Contributed to the development of a web application focusing on health awareness, highlighting versatility in addressing diverse project requirements.",
+    "bio": "\tVersatile software developer with a Bachelor's degree in Computer Science and over 4 years of experience, specializing in Python-based development. Skilled in full-stack web development, data science, and machine learning, with a proven track record of building scalable, data-driven applications. Adept at problem-solving and eager to contribute technical expertise to dynamic teams",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "vorobevse86@gmail.com",
     "phone": "+48 881 597 649",
@@ -15,7 +15,7 @@
       "zip": "54-152"
     },
     "website": "main",
-    "resumedownload": "https://drive.google.com/file/d/1Eu1fOYF07Ae5U3-OjzJwYU4ryFHi-fLg/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1EH0eU9Q38yNgQVhYm1eWKs3ADMNEFAdR/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -40,50 +40,31 @@
     ]
   },
   "resume": {
-    "skillmessage": "My favorite programming language is Python, framework: Django. My ambition is to continue my growth in web application development. I am familiar with agile project management methodologies. I did most of my development with SCRAM methodology.",
+    "skillmessage": "I'm a software developer with a Bachelor's degree in Computer Science and over 4 years of experience, specializing in Python-based development. I excel in full-stack web development, data science, and machine learning, with a proven ability to build scalable, data-driven applications. My core programming languages include Python, SQL, and JavaScript, and I'm proficient in web frameworks and technologies like Django, Flask, FastAPI, React, REST, and GraphQL. I leverage machine learning tools such as Scikit-learn, TensorFlow, Keras, PyTorch, and Pandas, alongside data libraries like NumPy, Matplotlib, Seaborn, and Plotly to deliver impactful solutions. I'm experienced in database management and ETL processes with PostgreSQL, SQLite, and SQL/NoSQL systems, and I bring DevOps expertise with tools like Docker, Kubernetes, AWS, Google Cloud Functions, and CI/CD pipelines. My development workflow is enhanced by tools like Git, GitHub, GitLab, Jira, and Scrum, ensuring efficient project management and collaboration. I'm a proactive problem-solver, eager to contribute my technical skills to innovative, dynamic teams",
     "work": [
-      {
-        "company": "Freelance, Wroclaw, Poland",
-        "title": "Full-Stack Web Developer",
-        "years": "March 2024 - present",
-        "description1": "• Backend and Frontend development of web applications",
-        "description2": "",
-        "description3": "",
-        "technologies1": "• Python, JavaScript, Django, DRF, Flask and FastAPI web frameworks",
-        "technologies2": "• SQLite, PostgreSQL, Docker",
-        "technologies3": "" 
-      },
       {
         "company": "TECHS Sp. z.o.o., Wroclaw, Poland",
         "title": "Backend Developer (Full-time)",
-        "years": "Jun 2022 - Feb 2024",
-        "description1": "• Backend development of web applications",
-        "description2": "• Working with OpenAPI Specification",
-        "description3": "• Manual testing of UI, writing unit tests",
-        "technologies1": "• Python, Django, DRF and FastAPI web frameworks",
-        "technologies2": "• PostgreSQL, SQLite, SQLAlchemy, OpenAPI, Docker",
-        "technologies3": "• Jira Software"
-
-      },
-      {
-        "company": "Freelance, Wroclaw, Poland",
-        "title": "Full-Stack Web Developer",
-        "years": "Oct 2021 - Jun 2022",
-        "description1": "• Backend and Frontend development of web applications",
-        "description2": "",
-        "description3": "",
-        "technologies1": "• Python, JavaScript, Django and FastAPI web frameworks",
-        "technologies2": "• SQLite, Postgres, Docker, Visual Paradigm",
-        "technologies3": "" 
+        "years": "Jun 2022 - Mar 2025",
+        "description1": "• Built scalable RESTful APIs with Django, boosting performance and maintainability, while using FastAPI for high-performance endpoints, achieving up to 20% gains in response time.",
+        "description2": "• Designed and developed full-stack web applications with seamless front-end and back-end integration, enhancing application functionality.",
+        "description3": "• Built and deployed machine learning models for predictive analytics, improving data-driven decision-making processes.",
+        "description4": "• Optimized Docker and CI/CD pipelines for efficient deployment and scalability.",
+        "description5": "• Ensured API reliability through rigorous testing and secure endpoint design.",
+        "technologies1": "• Django, Flask, FastAPI, React, REST, GraphQL",
+        "technologies2": "• PostgreSQL, SQLite, SQLAlchemy, OpenAPI, Docker,Docker, Kubernetes",
+        "technologies3": "• AWS (S3, EC2, Lambda), GCF, CI/CD, Git",
+        "technologies4": "• Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy, Matplotlib, Seaborn, Plotly",
+        "technologies5": "• Jira Software, SCRAM"
       },
       {
         "company": "Internship, Wroclaw, Poland",
         "title": "Data Engineer",
-        "years": "Jul 2021 - Oct 2021",
-        "description1": "Exploring existing the Data Base with company materials",
-        "description2": "Working with normalization of the Data Base",
-        "description3": "",
-        "technologies1": "• Postgres DB",
+        "years": "Jan 2022 - Jun 2022",
+        "description1": "• Exploring existing the Data Base with company materials",
+        "description2": "• Working with normalization of the Data Base",
+        "description3": "• Supported ETL processes to enhance data workflows",
+        "technologies1": "• PostgreSQL",
         "technologies2": "",
         "technologies3": "" 
       }
@@ -98,32 +79,32 @@
     ],
     "skills": [
       {
-        "name": "Python, Django, CSS, HTML5, SQL",
+        "name": "Python, SQL, JS",
         "level": "80%"
       },
       {
-        "name": "Java, PHP, JavaScript, React, C++",
+        "name": "Django, Flask, FastAPI, React, REST, GraphQL",
+        "level": "80%"
+      },
+      {
+        "name": "Scikit-learn, TensorFlow, Keras, PyTorch, Pandas",
         "level": "60%"
       },
       {
-        "name": "Linux, Git, Django Rest Framework, Fast API, Docker",
+        "name": "NumPy, Matplotlib, Seaborn, Plotly",
+        "level": "60%"
+      },
+      {
+        "name": "ETL, PostgreSQL, SQLite, SQL/NoSQL",
         "level": "70%"
       },
       {
-        "name": "VSCode, Atom, IntelliJ Idea, Visual Paradigm",
-        "level": "80%"
+        "name": "Docker, Kubernetes, AWS (S3, EC2, Lambda), GCF, CI/CD",
+        "level": "70%"
       },
       {
-        "name": "Adobe Photoshop, Illustrator, Premier Pro",
-        "level": "80%"
-      },
-      {
-        "name": "AWS, GCP",
-        "level": "50%"
-      },
-      {
-        "name": "Microsoft Office",
-        "level": "80%"
+        "name": "Git, GitHub, GitLab, Jira, SCRAM",
+        "level": "70%"
       }
     ]
   },
