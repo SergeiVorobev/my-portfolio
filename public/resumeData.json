@@ -4,7 +4,7 @@
     "occupation": "Full-Stack Web Developer & Django Developer & Python Developer & Backend Developer",
     "description": "",
     "image": "me.png",
-    "bio": "\tExperienced software developer with a degree in computer science, specializing in Python development. Over the past 4 years, I have successfully contributed to diverse software projects, showcasing proficiency in multiple frameworks, including Django, Flask, and FastAPI. My focus is on continuous growth in web application development and data engineering roles. Well- versed in agile project management methodologies, with expertise in the SCRAM technique.<br />KEY PROJECTS:<br />• Venue app: Developed a comprehensive venue app for event management, demonstrating full-stack capabilities in both backend and frontend development.\\n\\t• Web weather service: Led the creation of a web-based weather service utilizing Raspberry Pi, IoT sensors, SQLite, and Flask, showcasing expertise in data engineering and web technologies. \\n\\t• Health awareness system: Contributed to the development of a web application focusing on health awareness, highlighting versatility in addressing diverse project requirements",
+    "bio": "\tVersatile software developer with a Bachelor's degree in Computer Science and over 4 years of experience, specializing in Python-based development. Skilled in full-stack web development, data science, and machine learning, with a proven track record of building scalable, data-driven applications. Adept at problem-solving and eager to contribute technical expertise to dynamic teams",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "vorobevse86@gmail.com",
     "phone": "+48 881 597 649",
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Versatile software developer with a Bachelor's degree in Computer Science and over 4 years of experience, specializing in Python-based development. Skilled in full-stack web development, data science, and machine learning, with a proven track record of building scalable, data-driven applications. Adept at problem-solving and eager to contribute technical expertise to dynamic teams",
+    "skillmessage": "I'm a software developer with a Bachelor's degree in Computer Science and over 4 years of experience, specializing in Python-based development. I excel in full-stack web development, data science, and machine learning, with a proven ability to build scalable, data-driven applications. My core programming languages include Python, SQL, and JavaScript, and I'm proficient in web frameworks and technologies like Django, Flask, FastAPI, React, REST, and GraphQL. I leverage machine learning tools such as Scikit-learn, TensorFlow, Keras, PyTorch, and Pandas, alongside data libraries like NumPy, Matplotlib, Seaborn, and Plotly to deliver impactful solutions. I'm experienced in database management and ETL processes with PostgreSQL, SQLite, and SQL/NoSQL systems, and I bring DevOps expertise with tools like Docker, Kubernetes, AWS, Google Cloud Functions, and CI/CD pipelines. My development workflow is enhanced by tools like Git, GitHub, GitLab, Jira, and Scrum, ensuring efficient project management and collaboration. I'm a proactive problem-solver, eager to contribute my technical skills to innovative, dynamic teams",
     "work": [
       {
         "company": "TECHS Sp. z.o.o., Wroclaw, Poland",
