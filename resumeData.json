@@ -1,0 +1,322 @@
+{
+  "main": {
+    "name": "Sergei Vorobev",
+    "occupation": "Full-Stack Web Developer & Django Developer & Python Developer & Backend Developer",
+    "description": "",
+    "image": "me.png",
+    "bio": "\tVersatile software developer with a Bachelor's degree in Computer Science and over 4 years of experience, specializing in Python-based development. Skilled in full-stack web development, data science, and machine learning, with a proven track record of building scalable, data-driven applications. Adept at problem-solving and eager to contribute technical expertise to dynamic teams",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "vorobevse86@gmail.com",
+    "phone": "+48 881 597 649",
+    "address": {
+      "street": "Kozanowska 46",
+      "city": "Wroclaw",
+      "state": "PL",
+      "zip": "54-152"
+    },
+    "website": "main",
+    "resumedownload": "https://drive.google.com/file/d/1EH0eU9Q38yNgQVhYm1eWKs3ADMNEFAdR/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sergey.vorobyev.140",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sergei-vorobev-4b667a182",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sergeihappystudent/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/SergeiVorobev",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm a software developer with a Bachelor's degree in Computer Science and over 4 years of experience, specializing in Python-based development. I excel in full-stack web development, data science, and machine learning, with a proven ability to build scalable, data-driven applications. My core programming languages include Python, SQL, and JavaScript, and I'm proficient in web frameworks and technologies like Django, Flask, FastAPI, React, REST, and GraphQL. I leverage machine learning tools such as Scikit-learn, TensorFlow, Keras, PyTorch, and Pandas, alongside data libraries like NumPy, Matplotlib, Seaborn, and Plotly to deliver impactful solutions. I'm experienced in database management and ETL processes with PostgreSQL, SQLite, and SQL/NoSQL systems, and I bring DevOps expertise with tools like Docker, Kubernetes, AWS, Google Cloud Functions, and CI/CD pipelines. My development workflow is enhanced by tools like Git, GitHub, GitLab, Jira, and Scrum, ensuring efficient project management and collaboration. I'm a proactive problem-solver, eager to contribute my technical skills to innovative, dynamic teams",
+    "work": [
+      {
+        "company": "TECHS Sp. z.o.o., Wroclaw, Poland",
+        "title": "Backend Developer (Full-time)",
+        "years": "Jun 2022 - Mar 2025",
+        "description1": "• Built scalable RESTful APIs with Django, boosting performance and maintainability, while using FastAPI for high-performance endpoints, achieving up to 20% gains in response time.",
+        "description2": "• Designed and developed full-stack web applications with seamless front-end and back-end integration, enhancing application functionality.",
+        "description3": "• Built and deployed machine learning models for predictive analytics, improving data-driven decision-making processes.",
+        "description4": "• Optimized Docker and CI/CD pipelines for efficient deployment and scalability.",
+        "description5": "• Ensured API reliability through rigorous testing and secure endpoint design.",
+        "technologies1": "• Django, Flask, FastAPI, React, REST, GraphQL",
+        "technologies2": "• PostgreSQL, SQLite, SQLAlchemy, OpenAPI, Docker,Docker, Kubernetes",
+        "technologies3": "• AWS (S3, EC2, Lambda), GCF, CI/CD, Git",
+        "technologies4": "• Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy, Matplotlib, Seaborn, Plotly",
+        "technologies5": "• Jira Software, SCRAM"
+      },
+      {
+        "company": "Internship, Wroclaw, Poland",
+        "title": "Data Engineer",
+        "years": "Jan 2022 - Jun 2022",
+        "description1": "• Exploring existing the Data Base with company materials",
+        "description2": "• Working with normalization of the Data Base",
+        "description3": "• Supported ETL processes to enhance data workflows",
+        "technologies1": "• PostgreSQL",
+        "technologies2": "",
+        "technologies3": "" 
+      }
+    ],
+    "education": [
+      {
+        "school": "Wroclaw University of Science and Technology",
+        "degree": "Bachelor in Computer Science",
+        "graduated": "Oct 2018 - Jan 2023",
+        "description": "The most significant project along my study was a web-based weather service created with a Raspberry Pi, Python, SQLite and Flask web framework. Diploma Thesis: Web weather service."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python, SQL, JS",
+        "level": "80%"
+      },
+      {
+        "name": "Django, Flask, FastAPI, React, REST, GraphQL",
+        "level": "80%"
+      },
+      {
+        "name": "Scikit-learn, TensorFlow, Keras, PyTorch, Pandas",
+        "level": "60%"
+      },
+      {
+        "name": "NumPy, Matplotlib, Seaborn, Plotly",
+        "level": "60%"
+      },
+      {
+        "name": "ETL, PostgreSQL, SQLite, SQL/NoSQL",
+        "level": "70%"
+      },
+      {
+        "name": "Docker, Kubernetes, AWS (S3, EC2, Lambda), GCF, CI/CD",
+        "level": "70%"
+      },
+      {
+        "name": "Git, GitHub, GitLab, Jira, SCRAM",
+        "level": "70%"
+      }
+    ]
+  },
+  "licenses": {
+    "certificates": [
+      {
+        "title": "Build a Backend REST API with Python & Django - Advanced",
+        "category": "Udemy",
+        "image": "DRF.png",
+        "url": "https://www.udemy.com/certificate/UC-8e4598d1-0fbf-4642-963d-f98635360008/"
+        },
+      {
+        "title": "Introduction to C Sharp",
+        "category": "Sololearn",
+        "image": "CSharp.png",
+        "url": "https://www.sololearn.com/certificates/CC-4QQVIYDD"
+      },
+      {
+        "title": "Python Data Structures & Algorithms + LEETCODE Exercises",
+        "category": "Udemy",
+        "image": "PythonAlgorithms.png",
+        "url": "https://www.udemy.com/certificate/UC-6de6c732-4cba-4878-8cbc-5945e9548c4d/"
+        },
+      {
+        "title": "[NEW]Ultimate AWS Certified Cloud Practioner - 2023",
+        "category": "Udemy",
+        "image": "AWS.png",
+        "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-4ac7d0b2-9631-4c28-bb57-17cdfeb63b5e.pdf"
+      },
+      {
+        "title": "Python and Django Full Stack Web Developer Bootcamp",
+        "category": "Udemy",
+        "image": "Django_bootcamp.png",
+        "url": "https://www.udemy.com/certificate/UC-4980fc9e-2cf8-4be1-b542-8462d8a13f60/"
+      },
+      {
+      "title": "Data Science with Python course",
+      "category": "Sololearn",
+      "image": "DataPython.png",
+      "url": "https://www.sololearn.com/Certificate/1093-2785112/pdf"
+      },
+      {
+        "title": "CSS Fundamental course",
+        "category": "Sololearn",
+        "image": "CSS.png",
+        "url": "https://www.sololearn.com/Certificate/1023-2785112/pdf"
+      },
+      {
+        "title": "JavaScript Tutorial",
+        "category": "Sololearn",
+        "image": "JavaScript.png",
+        "url": "https://www.sololearn.com/Certificate/1024-2785112/pdf"
+        },
+        {
+          "title": "PHP Tutorial course",
+          "category": "Sololearn",
+          "image": "PHP.png",
+          "url": "https://www.sololearn.com/Certificate/1059-2785112/pdf"
+        },
+        {
+          "title": "Learn Git: Everything You need to know",
+          "category": "Udemy",
+          "image": "Git.png",
+          "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-048b0f8c-47dc-4ed1-a9f1-76e0623fb387.pdf"
+        },
+        {
+          "title": "HTML Fundamental course",
+          "category": "Sololearn",
+          "image": "HTML.png",
+          "url": "https://www.sololearn.com/Certificate/1014-2785112/pdf"
+        },
+        {
+          "title": "SQL Fundamental course",
+          "category": "Sololearn",
+          "image": "SQL.png",
+          "url": "https://www.sololearn.com/Certificate/1060-2785112/pdf"
+        },
+        {
+          "title": "Python 3 Tutorial course",
+          "category": "Sololearn",
+          "image": "Python3.png",
+          "url": "https://www.sololearn.com/Certificate/1073-2785112/pdf"
+        },
+        {
+          "title": "Java Tutorial course",
+          "category": "Sololearn",
+          "image": "Java.png",
+          "url": "https://www.sololearn.com/Certificate/1073-2785112/pdf"
+        }
+        ,
+        {
+          "title": "Python and Django Full Stack Web Developer Bootcamp",
+          "category": "Udemy",
+          "image": "Django.png",
+          "url": "https://www.udemy.com/certificate/UC-4980fc9e-2cf8-4be1-b542-8462d8a13f60/"
+        }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Trade and Material Assets (TMA) Warehouse App",
+        "category": "The TMA Warehouse App is a web-based solution that simplifies inventory management and purchase requests for warehouses, enhancing efficiency and control.",
+        "image": "tma.png",
+        "url": "https://github.com/SergeiVorobev/tma-warehouse-app.git"
+      },
+      {
+        "title": "Web weather service",
+        "category": "The weather station and web application for data visualisation that is the subject of this engineering paper is implemented as part of an individual engineering project by the author of this research.",
+        "image": "weather_station.png",
+        "url": "https://github.com/SergeiVorobev/Web-weather-service"
+      },
+      {
+        "title": "Energy Expenditure for Running",
+        "category": "This project makes analysis of energy expenditure for running.",
+        "image": "run.png",
+        "url": "https://github.com/SergeiVorobev/EnergyExpenditure"
+      },
+      {
+        "title": "Health awareness system",
+        "category": "The main purpose of the project(web application) informing the user about healthy eating, illustrating personal data with glucose levels, weight, BMI. In addition, the application prompts the user to review educational materials and take a quiz, as well as analyses the user's answers and makes a prediction about the risk of increasing blood glucose levels.",
+        "image": "hastp.png",
+        "url": "https://github.com/SergeiVorobev/Health-awareness-system"
+      },
+      {
+        "title": "Smart home",
+        "category": "Website for monitoring IoT devices. Url: https://cocont.herokuapp.com",
+        "image": "smarthome.png",
+        "url": "https://cocont.herokuapp.com"
+      },
+      {
+        "title": "Venue app",
+        "category": "Website for resevation venues and events. Url: https://venueappl.herokuapp.com/login/?next=/",
+        "image": "venues.png",
+        "url": "https://github.com/SergeiVorobev/VenueApp"
+      },
+      {
+        "title": "Bookstore",
+        "category": "The program stores this book information: Title, Author, Year, ISBN. User can: Viev all records ,Search an entry Add Entry, Update Entry, Delete, Close. (Tkinter-SQLite-OOP)",
+        "image": "bookstore.png",
+        "url": "https://github.com/SergeiVorobev/Bookstore-Tkinter-SQLite-OOP"
+      },
+      {
+        "title": "ReactJS Portfolio",
+        "category": "This is a ReactJS based personal resume website. Url: https://evgcopywrite.netlify.app",
+        "image": "pers_portfolio.png",
+        "url": "https://github.com/SergeiVorobev/portfolio_JS"
+      },
+      {
+        "title": "Simple calculator ",
+        "category": "Website created with using Django framework. Url: https://mywebcalculator.herokuapp.com",
+        "image": "calculator.png",
+        "url": "https://github.com/SergeiVorobev/WebCalculator"
+      },
+      {
+        "title": "Google clone",
+        "category": "Website created with using Django framework. Url: https://goolesclone.herokuapp.com",
+        "image": "google.png",
+        "url": "https://github.com/SergeiVorobev/googleclone71"
+      },
+      {
+        "title": "DailyAssetstPortfolio(python)",
+        "category": "This program attemps to optomize a user portfolio using the Efficient Frontier ( in the example of cryptocurrencies).",
+        "image": "portfolio.png",
+        "url": "https://github.com/SergeiVorobev/CreateDailyCryptoPortfolio/blob/master/DailyPortfolio.ipynb"
+      },
+      {
+        "title": "Assets price Prediction(python)",
+        "category": "This program predicts the closing assets price using artifitial recurrent neural network called Long Sort Term Memory(LSTM) with the 60 day assets price.",
+        "image": "prediction.png",
+        "url": "https://github.com/SergeiVorobev/AssetsPricePredictions/blob/master/AssetsPricePrediction.ipynb"
+      },
+      {
+        "title": "Assets price analysis project(python)",
+        "category": "This program analyzes the change in the asset over time and determines the best time to buy and sell using the SMA price intersection method.",
+        "image": "assetsAnalisys.png",
+        "url": "https://github.com/SergeiVorobev/Assets-price-analysis-project-python-/blob/master/AnalysisOfBitcoin.ipynb"
+      },
+      {
+        "title": "Dictionary(python)",
+        "category": "Dictionary project. The program outputs the definition of the input word.",
+        "image": "dictionary.png",
+        "url": "https://github.com/SergeiVorobev/Dictionary/tree/mainbranch"
+      },
+      {
+        "title": "GlobalMap(python)",
+        "category": "In this project we can see a global map with countries and USA's volcanoes",
+        "image": "map.jpg",
+        "url": "https://github.com/SergeiVorobev/GlobalMap"
+      },
+      {
+        "title": "Wireframe projects",
+        "category": "There are three wireframe study projects(facebook clone, Tic-Tac-Toe game and Cinema mobile app.)(Visual Paragigm)",
+        "image": "wireframes.png",
+        "url": "https://github.com/SergeiVorobev/Wireframes"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sergei Vorobev was instrumental in our real estate website project as a full-stack developer. His expertise in Django and React elevated the frontend, creating a user-friendly interface. While primarily focused on frontend tasks, Sergei seamlessly handled backend duties when needed, showcasing his versatility. His attention to detail and dedication to quality ensured a seamless and reliable platform. Sergei's proactive problem-solving and collaborative approach made him a valuable team member. I highly recommend Sergei for any future web development projects.",
+        "user": "Mikhail Mezyakov"
+      },
+      {
+        "text": "Sergei Vorobev has been an invaluable team member since July 1, 2022. His proactive problem-solving, effective communication, and technical expertise in Django, React, and backend development significantly enhance project success. His contributions to projects like \"Uncia\" and \"Gero\" demonstrate his capability to drive success. In summary, Sergei's positive traits and technical prowess make him a vital asset to our team.",
+        "user": "Igor Miazek"
+      },
+      {
+        "text": "That's a super work!  Best in the group! (About wireframe projects, where I presented Tic-tac-toe game and cinema mobile app, and also facebook clone)",
+        "user": "Bogumila  Hnatkowska"
+      }
+    ]
+  }
+}
