@@ -4,7 +4,7 @@
     "occupation": "Full-Stack Web Developer & Django Developer & Python Developer & Backend Developer",
     "description": "",
     "image": "me.png",
-    "bio": "\tExperienced software developer with a degree in computer science, specializing in Python development. Over the past 4 years, I have successfully contributed to diverse software projects, showcasing proficiency in multiple frameworks, including Django, Flask, and FastAPI. My focus is on continuous growth in web application development and data engineering roles. Well- versed in agile project management methodologies, with expertise in the SCRAM technique.<br />KEY PROJECTS:<br />• Venue app: Developed a comprehensive venue app for event management, demonstrating full-stack capabilities in both backend and frontend development.\\n\\t• Web weather service: Led the creation of a web-based weather service utilizing Raspberry Pi, IoT sensors, SQLite, and Flask, showcasing expertise in data engineering and web technologies. \\n\\t• Health awareness system: Contributed to the development of a web application focusing on health awareness, highlighting versatility in addressing diverse project requirements.",
+    "bio": "\tExperienced software developer with a degree in computer science, specializing in Python development. Over the past 4 years, I have successfully contributed to diverse software projects, showcasing proficiency in multiple frameworks, including Django, Flask, and FastAPI. My focus is on continuous growth in web application development and data engineering roles. Well- versed in agile project management methodologies, with expertise in the SCRAM technique.<br />KEY PROJECTS:<br />• Venue app: Developed a comprehensive venue app for event management, demonstrating full-stack capabilities in both backend and frontend development.\\n\\t• Web weather service: Led the creation of a web-based weather service utilizing Raspberry Pi, IoT sensors, SQLite, and Flask, showcasing expertise in data engineering and web technologies. \\n\\t• Health awareness system: Contributed to the development of a web application focusing on health awareness, highlighting versatility in addressing diverse project requirements",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "vorobevse86@gmail.com",
     "phone": "+48 881 597 649",
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Versatile software developer with a Bachelor's degree in Computer Science and over 4 years of experience, specializing in Python-based development. Skilled in full-stack web development, data science, and machine learning, with a proven track record of building scalable, data-driven applications. Adept at problem-solving and eager to contribute technical expertise to dynamic teams.",
+    "skillmessage": "Versatile software developer with a Bachelor's degree in Computer Science and over 4 years of experience, specializing in Python-based development. Skilled in full-stack web development, data science, and machine learning, with a proven track record of building scalable, data-driven applications. Adept at problem-solving and eager to contribute technical expertise to dynamic teams",
     "work": [
       {
         "company": "TECHS Sp. z.o.o., Wroclaw, Poland",
@@ -87,7 +87,11 @@
         "level": "80%"
       },
       {
-        "name": "Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy, Matplotlib, Seaborn, Plotly",
+        "name": "Scikit-learn, TensorFlow, Keras, PyTorch, Pandas",
+        "level": "60%"
+      },
+      {
+        "name": "NumPy, Matplotlib, Seaborn, Plotly",
         "level": "60%"
       },
       {
@@ -95,7 +99,11 @@
         "level": "70%"
       },
       {
-        "name": "Docker, Kubernetes, AWS (S3, EC2, Lambda), GCF, CI/CD, Git, GitHub, GitLab, Jira, SCRAM.",
+        "name": "Docker, Kubernetes, AWS (S3, EC2, Lambda), GCF, CI/CD",
+        "level": "70%"
+      },
+      {
+        "name": "Git, GitHub, GitLab, Jira, SCRAM",
         "level": "70%"
       }
     ]
