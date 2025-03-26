@@ -15,7 +15,7 @@
       "zip": "54-152"
     },
     "website": "main",
-    "resumedownload": "https://drive.google.com/file/d/1r09kcwuovhW5JZjtgtLVG3i81FC27C7T/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1EH0eU9Q38yNgQVhYm1eWKs3ADMNEFAdR/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Versatile software developer with a Bachelor's degree in Computer Science and over 4 years of experience, specializing in Python-based development. Skilled in full-stack web development, data science, and machine learning, with a proven track record of building scalable, data-driven applications. Adept at problem-solving and eager to contribute technical expertise to dynamic teams",
+    "skillmessage": "Versatile software developer with a Bachelor's degree in Computer Science and over 4 years of experience, specializing in Python-based development. Skilled in full-stack web development, data science, and machine learning, with a proven track record of building scalable, data-driven applications. Adept at problem-solving and eager to contribute technical expertise to dynamic teams.",
     "work": [
       {
         "company": "TECHS Sp. z.o.o., Wroclaw, Poland",
@@ -79,32 +79,24 @@
     ],
     "skills": [
       {
-        "name": "Python, Django, CSS, HTML5, SQL",
+        "name": "Python, SQL, JS",
         "level": "80%"
       },
       {
-        "name": "Java, PHP, JavaScript, React, C++",
+        "name": "Django, Flask, FastAPI, React, REST, GraphQL",
+        "level": "80%"
+      },
+      {
+        "name": "Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy, Matplotlib, Seaborn, Plotly",
         "level": "60%"
       },
       {
-        "name": "Linux, Git, Django Rest Framework, Fast API, Docker",
+        "name": "ETL, PostgreSQL, SQLite, SQL/NoSQL",
         "level": "70%"
       },
       {
-        "name": "VSCode, Atom, IntelliJ Idea, Visual Paradigm",
-        "level": "80%"
-      },
-      {
-        "name": "Adobe Photoshop, Illustrator, Premier Pro",
-        "level": "80%"
-      },
-      {
-        "name": "AWS, GCP",
-        "level": "50%"
-      },
-      {
-        "name": "Microsoft Office",
-        "level": "80%"
+        "name": "Docker, Kubernetes, AWS (S3, EC2, Lambda), GCF, CI/CD, Git, GitHub, GitLab, Jira, SCRAM.",
+        "level": "70%"
       }
     ]
   },
