@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Versatile software developer with a Bachelor’s degree in Computer Science and over 4 years of experience, specializing in Python-based development. Skilled in full-stack web development, data science, and machine learning, with a proven track record of building scalable, data-driven applications. Adept at problem-solving and eager to contribute technical expertise to dynamic teams",
+    "skillmessage": "Versatile software developer with a Bachelor's degree in Computer Science and over 4 years of experience, specializing in Python-based development. Skilled in full-stack web development, data science, and machine learning, with a proven track record of building scalable, data-driven applications. Adept at problem-solving and eager to contribute technical expertise to dynamic teams",
     "work": [
       {
         "company": "TECHS Sp. z.o.o., Wroclaw, Poland",
@@ -55,7 +55,7 @@
         "technologies2": "• PostgreSQL, SQLite, SQLAlchemy, OpenAPI, Docker,Docker, Kubernetes",
         "technologies3": "• AWS (S3, EC2, Lambda), GCF, CI/CD, Git",
         "technologies4": "• Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy, Matplotlib, Seaborn, Plotly",
-        "technologies5": "• Jira Software, SCRAM",
+        "technologies5": "• Jira Software, SCRAM"
       },
       {
         "company": "Internship, Wroclaw, Poland",
