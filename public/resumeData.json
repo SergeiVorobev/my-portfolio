@@ -15,7 +15,7 @@
       "zip": "54-152"
     },
     "website": "main",
-    "resumedownload": "https://drive.google.com/file/d/1Eu1fOYF07Ae5U3-OjzJwYU4ryFHi-fLg/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1r09kcwuovhW5JZjtgtLVG3i81FC27C7T/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -40,50 +40,31 @@
     ]
   },
   "resume": {
-    "skillmessage": "My favorite programming language is Python, framework: Django. My ambition is to continue my growth in web application development. I am familiar with agile project management methodologies. I did most of my development with SCRAM methodology.",
+    "skillmessage": "Versatile software developer with a Bachelor’s degree in Computer Science and over 4 years of experience, specializing in Python-based development. Skilled in full-stack web development, data science, and machine learning, with a proven track record of building scalable, data-driven applications. Adept at problem-solving and eager to contribute technical expertise to dynamic teams",
     "work": [
-      {
-        "company": "Freelance, Wroclaw, Poland",
-        "title": "Full-Stack Web Developer",
-        "years": "March 2024 - present",
-        "description1": "• Backend and Frontend development of web applications",
-        "description2": "",
-        "description3": "",
-        "technologies1": "• Python, JavaScript, Django, DRF, Flask and FastAPI web frameworks",
-        "technologies2": "• SQLite, PostgreSQL, Docker",
-        "technologies3": "" 
-      },
       {
         "company": "TECHS Sp. z.o.o., Wroclaw, Poland",
         "title": "Backend Developer (Full-time)",
-        "years": "Jun 2022 - Feb 2024",
-        "description1": "• Backend development of web applications",
-        "description2": "• Working with OpenAPI Specification",
-        "description3": "• Manual testing of UI, writing unit tests",
-        "technologies1": "• Python, Django, DRF and FastAPI web frameworks",
-        "technologies2": "• PostgreSQL, SQLite, SQLAlchemy, OpenAPI, Docker",
-        "technologies3": "• Jira Software"
-
-      },
-      {
-        "company": "Freelance, Wroclaw, Poland",
-        "title": "Full-Stack Web Developer",
-        "years": "Oct 2021 - Jun 2022",
-        "description1": "• Backend and Frontend development of web applications",
-        "description2": "",
-        "description3": "",
-        "technologies1": "• Python, JavaScript, Django and FastAPI web frameworks",
-        "technologies2": "• SQLite, Postgres, Docker, Visual Paradigm",
-        "technologies3": "" 
+        "years": "Jun 2022 - Mar 2025",
+        "description1": "• Built scalable RESTful APIs with Django, boosting performance and maintainability, while using FastAPI for high-performance endpoints, achieving up to 20% gains in response time.",
+        "description2": "• Designed and developed full-stack web applications with seamless front-end and back-end integration, enhancing application functionality.",
+        "description3": "• Built and deployed machine learning models for predictive analytics, improving data-driven decision-making processes.",
+        "description4": "• Optimized Docker and CI/CD pipelines for efficient deployment and scalability.",
+        "description5": "• Ensured API reliability through rigorous testing and secure endpoint design.",
+        "technologies1": "• Django, Flask, FastAPI, React, REST, GraphQL",
+        "technologies2": "• PostgreSQL, SQLite, SQLAlchemy, OpenAPI, Docker,Docker, Kubernetes",
+        "technologies3": "• AWS (S3, EC2, Lambda), GCF, CI/CD, Git",
+        "technologies4": "• Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy, Matplotlib, Seaborn, Plotly",
+        "technologies5": "• Jira Software, SCRAM",
       },
       {
         "company": "Internship, Wroclaw, Poland",
         "title": "Data Engineer",
-        "years": "Jul 2021 - Oct 2021",
-        "description1": "Exploring existing the Data Base with company materials",
-        "description2": "Working with normalization of the Data Base",
-        "description3": "",
-        "technologies1": "• Postgres DB",
+        "years": "Jan 2022 - Jun 2022",
+        "description1": "• Exploring existing the Data Base with company materials",
+        "description2": "• Working with normalization of the Data Base",
+        "description3": "• Supported ETL processes to enhance data workflows",
+        "technologies1": "• PostgreSQL",
         "technologies2": "",
         "technologies3": "" 
       }
