@@ -65,9 +65,7 @@
         "description1": "• Exploring existing the Data Base with company materials",
         "description2": "• Working with normalization of the Data Base",
         "description3": "• Supported ETL processes to enhance data workflows",
-        "technologies1": "• PostgreSQL",
-        "technologies2": "",
-        "technologies3": "" 
+        "technologies1": "• PostgreSQL"
       }
     ],
     "education": [
