@@ -45,7 +45,7 @@
       {
         "company": "TECHS Sp. z.o.o., Wroclaw, Poland",
         "title": "Backend Developer (Full-time)",
-        "years": "Jun 2022 - Mar 2025",
+        "years": "Jun 2022 - Jun 2025",
         "description1": "• Built scalable RESTful APIs with Django, boosting performance and maintainability, while using FastAPI for high-performance endpoints, achieving up to 20% gains in response time.",
         "description2": "• Designed and developed full-stack web applications with seamless front-end and back-end integration, enhancing application functionality.",
         "description3": "• Built and deployed machine learning models for predictive analytics, improving data-driven decision-making processes.",
@@ -209,7 +209,7 @@
       "title": "Consultation Booking Telegram Bot",
       "category": "A fully functional Telegram bot for psychological consultations that automates booking, pre-diagnostics, and client management. Designed for psychologists, clients, and administrators, it offers a seamless, secure, and scalable solution with integrated monitoring and calendar synchronization.",
       "image": "consultation_bot.png",
-      "url": "https://github.com/SergeiVorobev/consultation-booking-bot.git"
+      "url": "https://github.com/SergeiVorobev/bot_appointment.git"
       },
       {
         "title": "Trade and Material Assets (TMA) Warehouse App",
