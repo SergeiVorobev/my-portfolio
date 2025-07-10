@@ -11,13 +11,13 @@ class Resume extends Component {
             <p>&emsp;&emsp;On-the-job responsibilities:<br/>
               {['description1','description2','description3','description4','description5','description6']
                 .map(key => work[key])
-                .filter(Boolean)
+                .filter(desc => desc && desc.trim() !== "")
                 .map((desc, i) => <span key={i}>&emsp;&emsp;{desc}<br/></span>)}
             </p>
             <p>&emsp;&emsp;Used technologies:<br/>
               {['technologies1','technologies2','technologies3','technologies4','technologies5']
                 .map(key => work[key])
-                .filter(Boolean)
+                .filter(tech => tech && tech.trim() !== "")
                 .map((tech, i) => <span key={i}>&emsp;&emsp;{tech}<br/></span>)}
             </p>
         </div>
