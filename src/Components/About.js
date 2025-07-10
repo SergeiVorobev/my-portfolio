@@ -24,8 +24,7 @@ class About extends Component {
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
-
-            <p>&emsp;&emsp;Backend software developer with a degree in Computer Science. Over last 5 years I have gathered experience in many software projects including:<br/>&emsp;&emsp;• <u>Venue app</u> to search for events, as well as to create your own events and meetings.<br/>&emsp;&emsp;• <u>Web weather service</u> to visualize weather data using Raspberry Pi, IoT sensors, SQLite and Python.<br/>&emsp;&emsp;• <u>Energy expenditure for running</u> to analysis of energy expenditure for running.<br/>&emsp;&emsp;• <u>Assets price prediction</u> to predict the closing assets price with the 60 day assets price.<br/>&emsp;&emsp;• <u>Health awareness system web application</u> illustrates personal medical data, educate a user about healthy food (study materials, quiz) and makes a prediction about the risk of increasing glucose in the blood.</p>
+            <p>{bio}</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
