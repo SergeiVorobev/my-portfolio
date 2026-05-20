@@ -219,8 +219,8 @@ german-market-workflow.md
 - [x] Шаг 3.3: Добавить стили кнопок фильтров в `src/App.css` (класс `.filter-btn` с изменением цвета при `.active` на фирменный `#11abb0`).
 
 ## Этап 4: Интеграция изменений в резюме (Раздел Resume.js)
-- [ ] Шаг 4.1: Убедиться, что компонент `src/Components/Resume.js` корректно обрабатывает новые блоки данных `work` (автоматически рендерит фриланс, опыт в TECHS und historischen Erfahrung).
-- [ ] Шаг 4.2: Проверить отображение двух дипломов в блоке Education (TU Breslau und Tula Institute).
+- [x] Шаг 4.1: Убедиться, что компонент `src/Components/Resume.js` корректно обрабатывает новые блоки данных `work` (автоматически рендерит фриланс, опыт в TECHS und historischen Erfahrung).
+- [x] Шаг 4.2: Проверить отображение двух дипломов в блоке Education (TU Breslau und Tula Institute).
 
 ## Этап 5: Локальные тесты и публикация
 - [ ] Шаг 5.1: Запустить проект локально: `npm start`.
