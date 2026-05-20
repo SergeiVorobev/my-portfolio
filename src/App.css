@@ -1,0 +1,19 @@
+
+/* Portfolio Filter Styles */
+.filter-btn {
+  background: #333;
+  color: #fff;
+  border: 1px solid #333;
+  transition: all 0.3s ease;
+}
+
+.filter-btn:hover {
+  background: #11abb0;
+  border-color: #11abb0;
+}
+
+.filter-btn.active {
+  background: #11abb0;
+  border-color: #11abb0;
+  font-weight: bold;
+}
