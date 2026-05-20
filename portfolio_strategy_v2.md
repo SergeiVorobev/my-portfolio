@@ -36,6 +36,7 @@
 
 Каждому вашему проекту присваивается строгий массив тегов. [cite_start]Описания переработаны под универсальную бизнес-логику для прохождения первичного скрининга рекрутерами[cite: 669]:
 
+* **Ride Mate Bot** `[Tags: Backend, AI]` — Asynchronous Telegram bot for carpooling and ride-sharing coordination.
 * **CryptoPulse Platform** `[Tags: Backend, FullStack, Cloud, AI, ML]` — Коммерческая FinTech-платформа автоматизированной торговли. [cite_start]AI-стратегии (Gemini API), бэктестинг, оптимизация портфеля, Stripe-биллинг, Docker/AWS deployment[cite: 702, 703].
 * **Commercial Appointment Bot** `[Tags: Backend, AI]` — Асинхронное коммерческое букинг-приложение через Telegram. [cite_start]Реализована кастомная валидация, интеграция баз данных PostgreSQL/SQLite и административная панель управления[cite: 704].
 * **Smart Home & Weather System** `[Tags: IoT, Backend]` — Комплекс двух IoT-проектов на базе Raspberry Pi: система умного дома для мониторинга датчиков и автоматическая метеостанция с веб-интерфейсом на Flask.
@@ -209,8 +210,8 @@ german-market-workflow.md
 - [x] Шаг 1.2: Проверить, что даты обоих бакалавриатов (2010 и 2021) и периоды работы в РФ с точными месяцами прописаны без синтаксических ошибок в JSON.
 
 ## Этап 2: Настройка GitHub репозиториев-алиби
-- [ ] Шаг 2.1: В публичном репозитории `bot_appointment` (аккаунт SergeiSmazal) оформить README.md на английском языке. Описать стек: `Aiogram / Telebot`, `Asyncio`, `PostgreSQL/SQLite`.
-- [ ] Шаг 2.2: Создать публичный репозиторий-спецификацию `cryptopulse-specifications`. Скопировать туда `docker-compose.yml`, `requirements.txt` и `README.md` с архитектурной схемой. Написать сверху дисклеймер о приватности коммерческого кода (NDA).
+- [x] Шаг 2.1: В публичном репозитории `bot_appointment` (аккаунт SergeiSmazal) оформить README.md на английском языке. Описать стек: `Aiogram / Telebot`, `Asyncio`, `PostgreSQL/SQLite`.
+- [x] Шаг 2.2: Создать публичный репозиторий-спецификацию `cryptopulse-specifications`. Скопировать туда `docker-compose.yml`, `requirements.txt` и `README.md` с архитектурной схемой. Написать сверху дисклеймер о приватности коммерческого кода (NDA).
 
 ## Этап 3: Кодинг фильтрации по тегам в React
 - [ ] Шаг 3.1: Открыть компонент `src/Components/Portfolio.js`.
