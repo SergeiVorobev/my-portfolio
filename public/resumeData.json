@@ -1,10 +1,10 @@
 {
   "main": {
-    "name": "Sergei Vorobev",
-    "occupation": "Full-Stack Web Developer & Django Developer & Python Developer & Backend Developer",
-    "description": "",
+    "name": "Sergei Smazal",
+    "occupation": "Full-Stack Developer | Cloud & Data Engineer | ML & AI Specialist",
+    "description": "Vielseitiger Softwareentwickler mit über 4 Jahren IT-Erfahrung, spezialisiert auf Python-Entwicklung, Cloud-Architekturen (AWS/GCP), Datenverarbeitung (ETL) und moderne KI-Systeme (LLM/AI Agents). Erfahren im Systemdesign von der Datenbank bis zum React-Interface.",
     "image": "me.png",
-    "bio": "\tVersatile software developer with a Bachelor's degree in Computer Science and over 4 years of experience, specializing in Python-based development. Skilled in full-stack web development, data science, and machine learning, with a proven track record of building scalable, data-driven applications. Adept at problem-solving and eager to contribute technical expertise to dynamic teams",
+    "bio": "Versatile software developer with a Bachelor's degree in Computer Science and over 4 years of experience, specializing in Python-based development. Skilled in full-stack web development, data science, and machine learning, with a proven track record of building scalable, data-driven applications. Adept at problem-solving and eager to contribute technical expertise to dynamic teams.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "vorobevse86@gmail.com",
     "phone": "+49 152 57237845",
@@ -16,30 +16,31 @@
     "resumedownload": "https://drive.google.com/file/d/1xJSTbGmc_35pEDlX2BxU2xQ0zWmdssrl/view?usp=sharing",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sergey.vorobyev.140",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/sergei-vorobev-4b667a182",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/sergeihappystudent/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/SergeiVorobev",
+        "url": "https://github.com/SergeiSmazal",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "I am passionate about mastering new technologies and applying best practices in software engineering. My focus is on delivering robust, maintainable, and efficient solutions, and I thrive in collaborative, innovative environments.\nBelow are the key skills and technologies I use to deliver high-quality software solutions.",
+    "skillmessage": "I am passionate about mastering new technologies and applying best practices in software engineering. My focus is on delivering robust, maintainable, and efficient solutions, and I thrive in collaborative, innovative environments.",
     "work": [
+      {
+        "company": "IT-Freelance / Independent Contractor",
+        "title": "Lead Python Developer / Cloud & AI Engineer",
+        "years": "Okt. 2025 - Heute",
+        "description1": "• CryptoPulse: Development of an automated FinTech trading platform with Django and FastAPI.",
+        "description2": "• Implementing AI agents via Gemini API, Stripe payment system integration, and deployment via Docker on AWS.",
+        "description3": "• Telegram Automation: Development of asynchronous Telegram bots for commercial booking systems.",
+        "description4": "• Realized automated calendar synchronization, rate limiting, and relational database management (PostgreSQL/SQLite).",
+        "technologies1": "• Python, Django, FastAPI, React, REST",
+        "technologies2": "• PostgreSQL, SQLite, Docker, AWS, Gemini API"
+      },
       {
         "company": "TECHS Sp. z.o.o., Wroclaw, Poland",
         "title": "Backend Developer (Full-time)",
@@ -51,7 +52,7 @@
         "description5": "• Improved API security with token authentication, rate limiting, and access control.",
         "description6": "• Authored detailed OpenAPI specifications and Swagger documentation, streamlining team collaboration and onboarding.",
         "technologies1": "• Django, Flask, FastAPI, React, REST, GraphQL",
-        "technologies2": "• PostgreSQL, SQLite, SQLAlchemy, OpenAPI, Docker,Docker, Kubernetes",
+        "technologies2": "• PostgreSQL, SQLite, SQLAlchemy, OpenAPI, Docker, Kubernetes",
         "technologies3": "• AWS (S3, EC2, Lambda), GCF, CI/CD, Git",
         "technologies4": "• Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy, Matplotlib, Seaborn, Plotly",
         "technologies5": "• Jira Software, SCRAM"
@@ -60,18 +61,60 @@
         "company": "EIX Sp. z.o.o. (Internship), Wroclaw, Poland",
         "title": "Data Engineer",
         "years": "Jan 2022 - Jun 2022",
-        "description1": "• Exploring existing the Data Base with company materials",
-        "description2": "• Working with normalization of the Data Base",
-        "description3": "• Supported ETL processes to enhance data workflows",
+        "description1": "• Exploring existing Data Base with company materials.",
+        "description2": "• Working with normalization of the Data Base.",
+        "description3": "• Supported ETL processes to enhance data workflows.",
         "technologies1": "• PostgreSQL"
+      },
+      {
+        "company": "Municipal Administration of Priupskoye, Kireyevsky District, Tula Region",
+        "title": "Deputy Head of Municipal Administration",
+        "years": "Nov 2014 - Oct 2018",
+        "description1": "Served as the Deputy Head of the local municipal administration.",
+        "description2": "Strategic management, budget responsibility, crisis management, and negotiations with state authorities.",
+        "description3": "Led interdisciplinary teams in regional projects."
+      },
+      {
+        "company": "AlfaBank",
+        "title": "Loan Officer",
+        "years": "Sep 2013 - Oct 2014",
+        "description1": "Financial analysis of corporate and private clients.",
+        "description2": "Risk assessment, loan review, and portfolio monitoring."
+      },
+      {
+        "company": "Municipal Administration of Borodinskoye, Kireyevsky District, Tula Region",
+        "title": "Department Head / Inspector for Housing and Communal Services",
+        "years": "May 2010 - Aug 2013",
+        "description1": "Specializing in housing and communal services (utilities).",
+        "description2": "Project management for municipal infrastructure and team leadership."
+      },
+      {
+        "company": "Zurich Financial Services",
+        "title": "Insurance Specialist",
+        "years": "Aug 2007 - Sep 2008",
+        "description1": "Risk assessment and administration of insurance policies.",
+        "description2": "Ensuring compliance with international quality standards."
+      },
+      {
+        "company": "Uniastrum Bank",
+        "title": "Loan Officer",
+        "years": "Sep 2006 - Jul 2007",
+        "description1": "Initial assessment of loan applications and credit check execution.",
+        "description2": "Consulting clients on financial products."
       }
     ],
     "education": [
       {
         "school": "Wroclaw University of Science and Technology",
-        "degree": "Bachelor in Computer Science",
+        "degree": "Bachelor of Science in Computer Science",
         "graduated": "Oct 2018 - Jan 2023",
         "description": "The most significant project along my study was a web-based weather service created with a Raspberry Pi, Python, SQLite and Flask web framework. Diploma Thesis: Web weather service."
+      },
+      {
+        "school": "Tula Institute of Economics and Informatics",
+        "degree": "Bachelor in Finance and Credit",
+        "graduated": "2005 - 2010",
+        "description": "Academic studies in finance, risk management, business law, and economic modeling."
       }
     ],
     "skills": [
@@ -112,7 +155,7 @@
         "category": "Udemy",
         "image": "DRF.png",
         "url": "https://www.udemy.com/certificate/UC-8e4598d1-0fbf-4642-963d-f98635360008/"
-        },
+      },
       {
         "title": "Introduction to C Sharp",
         "category": "Sololearn",
@@ -124,7 +167,7 @@
         "category": "Udemy",
         "image": "PythonAlgorithms.png",
         "url": "https://www.udemy.com/certificate/UC-6de6c732-4cba-4878-8cbc-5945e9548c4d/"
-        },
+      },
       {
         "title": "[NEW]Ultimate AWS Certified Cloud Practioner - 2023",
         "category": "Udemy",
@@ -138,10 +181,10 @@
         "url": "https://www.udemy.com/certificate/UC-4980fc9e-2cf8-4be1-b542-8462d8a13f60/"
       },
       {
-      "title": "Data Science with Python course",
-      "category": "Sololearn",
-      "image": "DataPython.png",
-      "url": "https://www.sololearn.com/Certificate/1093-2785112/pdf"
+        "title": "Data Science with Python course",
+        "category": "Sololearn",
+        "image": "DataPython.png",
+        "url": "https://www.sololearn.com/Certificate/1093-2785112/pdf"
       },
       {
         "title": "CSS Fundamental course",
@@ -154,146 +197,169 @@
         "category": "Sololearn",
         "image": "JavaScript.png",
         "url": "https://www.sololearn.com/Certificate/1024-2785112/pdf"
-        },
-        {
-          "title": "PHP Tutorial course",
-          "category": "Sololearn",
-          "image": "PHP.png",
-          "url": "https://www.sololearn.com/Certificate/1059-2785112/pdf"
-        },
-        {
-          "title": "Learn Git: Everything You need to know",
-          "category": "Udemy",
-          "image": "Git.png",
-          "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-048b0f8c-47dc-4ed1-a9f1-76e0623fb387.pdf"
-        },
-        {
-          "title": "HTML Fundamental course",
-          "category": "Sololearn",
-          "image": "HTML.png",
-          "url": "https://www.sololearn.com/Certificate/1014-2785112/pdf"
-        },
-        {
-          "title": "SQL Fundamental course",
-          "category": "Sololearn",
-          "image": "SQL.png",
-          "url": "https://www.sololearn.com/Certificate/1060-2785112/pdf"
-        },
-        {
-          "title": "Python 3 Tutorial course",
-          "category": "Sololearn",
-          "image": "Python3.png",
-          "url": "https://www.sololearn.com/Certificate/1073-2785112/pdf"
-        },
-        {
-          "title": "Java Tutorial course",
-          "category": "Sololearn",
-          "image": "Java.png",
-          "url": "https://www.sololearn.com/Certificate/1073-2785112/pdf"
-        }
+      },
+      {
+        "title": "PHP Tutorial course",
+        "category": "Sololearn",
+        "image": "PHP.png",
+        "url": "https://www.sololearn.com/Certificate/1059-2785112/pdf"
+      },
+      {
+        "title": "Learn Git: Everything You need to know",
+        "category": "Udemy",
+        "image": "Git.png",
+        "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-048b0f8c-47dc-4ed1-a9f1-76e0623fb387.pdf"
+      },
+      {
+        "title": "HTML Fundamental course",
+        "category": "Sololearn",
+        "image": "HTML.png",
+        "url": "https://www.sololearn.com/Certificate/1014-2785112/pdf"
+      },
+      {
+        "title": "SQL Fundamental course",
+        "category": "Sololearn",
+        "image": "SQL.png",
+        "url": "https://www.sololearn.com/Certificate/1060-2785112/pdf"
+      },
+      {
+        "title": "Python 3 Tutorial course",
+        "category": "Sololearn",
+        "image": "Python3.png",
+        "url": "https://www.sololearn.com/Certificate/1073-2785112/pdf"
+      },
+      {
+        "title": "Java Tutorial course",
+        "category": "Sololearn",
+        "image": "Java.png",
+        "url": "https://www.sololearn.com/Certificate/1073-2785112/pdf"
+      }
     ]
   },
   "portfolio": {
     "projects": [
       {
-      "title": "Consultation Booking Telegram Bot",
-      "category": "A fully functional Telegram bot for psychological consultations that automates booking, pre-diagnostics, and client management. Designed for psychologists, clients, and administrators, it offers a seamless, secure, and scalable solution with integrated monitoring and calendar synchronization.",
-      "image": "consultation_bot.png",
-      "url": "https://github.com/SergeiVorobev/bot_appointment.git"
+        "title": "Ride Mate Bot",
+        "category": "Asynchronous Telegram bot for carpooling and ride-sharing coordination.",
+        "tags": ["Backend", "AI"],
+        "image": "ride_mate.png",
+        "url": "https://github.com/SergeiSmazal/ride-mate-bot"
+      },
+      {
+        "title": "CryptoPulse Platform",
+        "category": "Commercial Contract Project (NDA Protected)",
+        "tags": ["Backend", "FullStack", "Cloud", "AI", "ML"],
+        "image": "cryptopulse.jpg",
+        "url": "https://github.com/SergeiSmazal/cryptopulse-specifications",
+        "description": "Commercial FinTech platform for crypto trading. Includes AI trading strategies, portfolio optimization, Stripe payments, and Docker/AWS deployment."
+      },
+      {
+        "title": "Commercial Appointment Bot",
+        "category": "Freelance Project",
+        "tags": ["Backend", "AI"],
+        "image": "appointment_bot.jpg",
+        "url": "https://github.com/SergeiSmazal/bot_appointment",
+        "description": "Asynchronous booking system via Telegram for automating customer appointments. Integrates PostgreSQL/SQLite, validation layers, and administrative control."
+      },
+      {
+        "title": "Consultation Booking Telegram Bot",
+        "category": "A fully functional Telegram bot for psychological consultations that automates booking, pre-diagnostics, and client management.",
+        "image": "consultation_bot.png",
+        "url": "https://github.com/SergeiVorobev/bot_appointment.git"
       },
       {
         "title": "Trade and Material Assets (TMA) Warehouse App",
-        "category": "The TMA Warehouse App is a web-based solution that simplifies inventory management and purchase requests for warehouses, enhancing efficiency and control.",
+        "category": "The TMA Warehouse App is a web-based solution that simplifies inventory management and purchase requests for warehouses.",
         "image": "tma.png",
         "url": "https://github.com/SergeiVorobev/tma-warehouse-app.git"
       },
       {
         "title": "Web weather service",
-        "category": "The weather station and web application for data visualisation that is the subject of this engineering paper is implemented as part of an individual engineering project by the author of this research.",
+        "category": "Web-based weather service created with a Raspberry Pi, Python, SQLite and Flask.",
         "image": "weather_station.png",
         "url": "https://github.com/SergeiVorobev/Web-weather-service"
       },
       {
         "title": "Energy Expenditure for Running",
-        "category": "This project makes analysis of energy expenditure for running.",
+        "category": "Data analysis of energy expenditure for running.",
         "image": "run.png",
         "url": "https://github.com/SergeiVorobev/EnergyExpenditure"
       },
       {
         "title": "Health awareness system",
-        "category": "The main purpose of the project(web application) informing the user about healthy eating, illustrating personal data with glucose levels, weight, BMI. In addition, the application prompts the user to review educational materials and take a quiz, as well as analyses the user's answers and makes a prediction about the risk of increasing blood glucose levels.",
+        "category": "Web application for health monitoring (BMI, glucose, risks).",
         "image": "hastp.png",
         "url": "https://github.com/SergeiVorobev/Health-awareness-system"
       },
       {
         "title": "Smart home",
-        "category": "Website for monitoring IoT devices. Url: https://cocont.herokuapp.com",
+        "category": "IoT monitoring website.",
         "image": "smarthome.png",
         "url": "https://cocont.herokuapp.com"
       },
       {
         "title": "Venue app",
-        "category": "Website for resevation venues and events. Url: https://venueappl.herokuapp.com/login/?next=/",
+        "category": "Platform for booking venues and events.",
         "image": "venues.png",
         "url": "https://github.com/SergeiVorobev/VenueApp"
       },
       {
         "title": "Bookstore",
-        "category": "The program stores this book information: Title, Author, Year, ISBN. User can: Viev all records ,Search an entry Add Entry, Update Entry, Delete, Close. (Tkinter-SQLite-OOP)",
+        "category": "Desktop application for bookstore inventory management (Tkinter-SQLite-OOP).",
         "image": "bookstore.png",
         "url": "https://github.com/SergeiVorobev/Bookstore-Tkinter-SQLite-OOP"
       },
       {
         "title": "ReactJS Portfolio",
-        "category": "This is a ReactJS based personal resume website. Url: https://evgcopywrite.netlify.app",
+        "category": "Personal resume website.",
         "image": "pers_portfolio.png",
-        "url": "https://github.com/SergeiVorobev/portfolio_JS"
+        "url": "https://github.com/SergeiSmazal/portfolio_JS"
       },
       {
-        "title": "Simple calculator ",
-        "category": "Website created with using Django framework. Url: https://mywebcalculator.herokuapp.com",
+        "title": "Simple calculator",
+        "category": "Django-based web calculator.",
         "image": "calculator.png",
         "url": "https://github.com/SergeiVorobev/WebCalculator"
       },
       {
         "title": "Google clone",
-        "category": "Website created with using Django framework. Url: https://goolesclone.herokuapp.com",
+        "category": "Django-based Google search clone.",
         "image": "google.png",
         "url": "https://github.com/SergeiVorobev/googleclone71"
       },
       {
-        "title": "DailyAssetstPortfolio(python)",
-        "category": "This program attemps to optomize a user portfolio using the Efficient Frontier ( in the example of cryptocurrencies).",
+        "title": "DailyAssetsPortfolio (Python)",
+        "category": "Crypto portfolio optimization using Efficient Frontier.",
         "image": "portfolio.png",
         "url": "https://github.com/SergeiVorobev/CreateDailyCryptoPortfolio/blob/master/DailyPortfolio.ipynb"
       },
       {
-        "title": "Assets price Prediction(python)",
-        "category": "This program predicts the closing assets price using artifitial recurrent neural network called Long Sort Term Memory(LSTM) with the 60 day assets price.",
+        "title": "Assets Price Prediction (Python)",
+        "category": "LSTM-based neural network for asset price prediction.",
         "image": "prediction.png",
         "url": "https://github.com/SergeiVorobev/AssetsPricePredictions/blob/master/AssetsPricePrediction.ipynb"
       },
       {
-        "title": "Assets price analysis project(python)",
-        "category": "This program analyzes the change in the asset over time and determines the best time to buy and sell using the SMA price intersection method.",
+        "title": "Assets Price Analysis (Python)",
+        "category": "SMA-based trend analysis for buy/sell signaling.",
         "image": "assetsAnalisys.png",
         "url": "https://github.com/SergeiVorobev/Assets-price-analysis-project-python-/blob/master/AnalysisOfBitcoin.ipynb"
       },
       {
-        "title": "Dictionary(python)",
-        "category": "Dictionary project. The program outputs the definition of the input word.",
+        "title": "Dictionary (Python)",
+        "category": "Word definition dictionary application.",
         "image": "dictionary.png",
         "url": "https://github.com/SergeiVorobev/Dictionary/tree/mainbranch"
       },
       {
-        "title": "GlobalMap(python)",
-        "category": "In this project we can see a global map with countries and USA's volcanoes",
+        "title": "GlobalMap (Python)",
+        "category": "Global map visualization of volcanoes.",
         "image": "map.jpg",
         "url": "https://github.com/SergeiVorobev/GlobalMap"
       },
       {
         "title": "Wireframe projects",
-        "category": "There are three wireframe study projects(facebook clone, Tic-Tac-Toe game and Cinema mobile app.)(Visual Paragigm)",
+        "category": "Study projects for UI/UX (Facebook clone, Tic-Tac-Toe, Cinema App).",
         "image": "wireframes.png",
         "url": "https://github.com/SergeiVorobev/Wireframes"
       }
@@ -302,16 +368,16 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sergei Vorobev was instrumental in our real estate website project as a full-stack developer. His expertise in Django and React elevated the frontend, creating a user-friendly interface. While primarily focused on frontend tasks, Sergei seamlessly handled backend duties when needed, showcasing his versatility. His attention to detail and dedication to quality ensured a seamless and reliable platform. Sergei's proactive problem-solving and collaborative approach made him a valuable team member. I highly recommend Sergei for any future web development projects.",
+        "text": "Sergei Smazal was instrumental in our real estate website project as a full-stack developer. His expertise in Django and React elevated the frontend, creating a user-friendly interface. While primarily focused on frontend tasks, Sergei seamlessly handled backend duties when needed, showcasing his versatility. His attention to detail and dedication to quality ensured a seamless and reliable platform. Sergei's proactive problem-solving and collaborative approach made him a valuable team member. I highly recommend Sergei for any future web development projects.",
         "user": "Mikhail Mezyakov"
       },
       {
-        "text": "Sergei Vorobev has been an invaluable team member since July 1, 2022. His proactive problem-solving, effective communication, and technical expertise in Django, React, and backend development significantly enhance project success. His contributions to projects like \"Uncia\" and \"Gero\" demonstrate his capability to drive success. In summary, Sergei's positive traits and technical prowess make him a vital asset to our team.",
+        "text": "Sergei Smazal has been an invaluable team member since July 1, 2022. His proactive problem-solving, effective communication, and technical expertise in Django, React, and backend development significantly enhance project success. His contributions to projects demonstrate his capability to drive success. In summary, Sergei's positive traits and technical prowess make him a vital asset to our team.",
         "user": "Igor Miazek"
       },
       {
-        "text": "That's a super work!  Best in the group! (About wireframe projects, where I presented Tic-tac-toe game and cinema mobile app, and also facebook clone)",
-        "user": "Bogumila  Hnatkowska"
+        "text": "That's a super work! Best in the group!",
+        "user": "Bogumila Hnatkowska"
       }
     ]
   }
